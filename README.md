@@ -7,7 +7,7 @@ Name : Thanathip Chansri
 - 1.2 : https://github.com/sSlotty/SWD-TEST/blob/main/SWD_BACKEND_TEST-main/logical_test_2.py
 - 1.3 https://github.com/sSlotty/SWD-TEST/blob/main/SWD_BACKEND_TEST-main/apis/views/schools.py
 
-## Sction 2
+## Section 2
 - 2.1 : https://github.com/sSlotty/SWD-TEST/tree/main/todos
 - 2.2 : https://github.com/sSlotty/SWD-TEST/tree/main/mail
 - 2.3 : https://github.com/sSlotty/SWD-TEST/blob/main/SWD_BACKEND_TEST-main/index_max_values.py
