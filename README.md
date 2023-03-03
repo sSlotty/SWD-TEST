@@ -1,8 +1,5 @@
 # SWD-TEST
 
-
-# SWD-TEST
-
 Name : Thanathip Chansri
 
 ## Section 1
